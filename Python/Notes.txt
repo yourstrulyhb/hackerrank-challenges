@@ -1,0 +1,1 @@
+Decorators - allow programmers to modify the behaviour of a function or class.
